@@ -6,8 +6,7 @@ getting struck. The game utilizes the OpenGL graphics library for rendering a vi
 environment.
 
 You can run this program in code blocks by installing Glut library or else this code can be run on visual studio
-The Code blocks with Glut library can be downloaded by following the steps provided in this video
-## https://www.youtube.com/watch?v=vTNwTnDMiRg
-## Authors 
-## Aditya Deo Raj 
-## Aditya Kumar
+The Code blocks with Glut library can be downloaded by following the steps provided in this video https://www.youtube.com/watch?v=vTNwTnDMiRg
+Authors 
+ Aditya Deo Raj 
+ Aditya Kumar
