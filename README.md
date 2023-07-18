@@ -9,5 +9,7 @@ You can run this program in code blocks by installing Glut library or else this 
 The Code blocks with Glut library can be downloaded by following the steps provided in this video https://www.youtube.com/watch?v=vTNwTnDMiRg
 
 Authors 
-Aditya Deo Raj 
+
+Aditya Deo Raj
+
 Aditya Kumar
